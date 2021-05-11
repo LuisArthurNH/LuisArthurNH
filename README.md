@@ -5,4 +5,4 @@
 
 Hey there,
 
-I'm **Luis**, a 25-year-old brazilian **electrical engineering student at UFJF** and here you can find some of the last stuff I've been working on!
+I'm **Luis**, a 25-year-old brazilian **MSc student at UFRJ/COPPE** and here you can find some of the last stuff I've been working on!
