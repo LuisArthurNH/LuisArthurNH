@@ -4,4 +4,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gui.martinscaruso@gmail.com)](mailto:luis.novais@engenharia.ufjf.br)
 
 
-I'm **Luis Novais**, a 26-year-old **MSc student at UFRJ/COPPE**.
+I'm **Luis Novais**, a 27-year-old **MSc student at UFRJ/COPPE**.
